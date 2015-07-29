@@ -655,7 +655,7 @@
 				}
 
 					#header nav a:hover:before {
-						background-color: #dd4b39;
+						background-color: #00bf8f;
 						color: #fff;
 					}
 
@@ -676,12 +676,12 @@
 					}
 
 					#header nav a.icon.fa-envelope:hover:before {
-						background-color: #dd4b39;
+						background-color: #00bf8f;
 					}
 
 
 					#header nav a.icon.fa-lightbulb-o:hover:before {
-						background-color: #dd4b39;
+						background-color: #00bf8f;
 						color: yellow;
 					}
 
