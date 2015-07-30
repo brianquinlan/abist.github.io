@@ -1013,8 +1013,18 @@
 	line-height: 1em;
 	color: white;
 	text-align: center;
-	margin-bottom: 1em;
+	font-family: 'Source Sans Pro', sans-serif;
 
+}
+
+#header p, a {
+	font-size: 1.25em;
+	margin: 0.75em 0 0.25em 0;
+	opacity: 0.75;
+	text-align: center;
+	color: white;
+	text-decoration: none;
+	font-family: 'Source Sans Pro', sans-serif;
 }
 
 /* List */
