@@ -1,4 +1,4 @@
-@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic");
+@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
 @import url("font-awesome.min.css");
 
 /*
@@ -1017,12 +1017,18 @@
 
 }
 
-#header p, a {
+#header p {
+	text-align: center;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+#header a {
 	font-size: 1.25em;
 	margin: 0.75em 0 0.25em 0;
 	opacity: 0.75;
 	text-align: center;
 	color: white;
+	border-bottom: dotted 1px;
 	text-decoration: none;
 	font-family: 'Source Sans Pro', sans-serif;
 }
