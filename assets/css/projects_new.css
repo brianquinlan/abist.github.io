@@ -1271,41 +1271,6 @@
 					margin: 0.5em 0 0 0;
 				}
 
-		/* Button */
-
-			input[type="button"],
-			input[type="submit"],
-			input[type="reset"],
-			button,
-			.button {
-				padding: 0.7em 1.5em 0.7em 1.5em;
-			}
-
-				input[type="button"].small,
-				input[type="submit"].small,
-				input[type="reset"].small,
-				button.small,
-				.button.small {
-					font-size: 0.75em;
-				}
-
-				input[type="button"].big,
-				input[type="submit"].big,
-				input[type="reset"].big,
-				button.big,
-				.button.big {
-					font-size: 1.25em;
-					padding: 0.5em 1.25em 0.5em 1.25em;
-				}
-
-				input[type="button"].huge,
-				input[type="submit"].huge,
-				input[type="reset"].huge,
-				button.huge,
-				.button.huge {
-					font-size: 1.5em;
-					padding: 0.5em 1.25em 0.5em 1.25em;
-				}
 
 		/* Wrapper */
 
@@ -1594,21 +1559,9 @@
 
 		/* Me */
 
-			#me .pic {
-				width: 100%;
-			}
-
-				#me .pic img {
-					display: block;
-					width: 100%;
-				}
-
-				#me .pic .arrow {
-					display: none;
-				}
 
 			#me header {
-				text-align: center;
+				text-align: left;
 			}
 
 				#me header > h1 {
