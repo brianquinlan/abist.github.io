@@ -1620,6 +1620,11 @@
 					font-size: 1.25em;
 				}
 
+				#me header a.icon.fa-external-link-square {
+					text-decoration: none;
+					color: #40556a;
+				}
+
 		/* Footer */
 
 			#footer {
