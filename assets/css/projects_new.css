@@ -1428,14 +1428,6 @@
 				height: 10.75em;
 			}
 
-				#me .pic {
-					display: block;
-					position: absolute;
-					right: -1px;
-					top: 0;
-					height: 100%;
-					text-decoration: none;
-				}
 
 				#me header {
 					position: absolute;
@@ -1465,9 +1457,11 @@
 						position: absolute;
 						left: 0;
 						top: 52.5%;
-						font-size: 1.5em;
+						font-size: 1em;
 						letter-spacing: -0.015em;
 						margin-top: 0;
+						width: 90%;
+						color: #777777;
 					}
 
 		/* Footer */
