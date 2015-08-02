@@ -1006,32 +1006,6 @@
 			}
 
 
-#header h1 {
-	font-size: 4.35em;
-	font-weight: 900;
-	letter-spacing: -0.035em;
-	line-height: 1em;
-	color: white;
-	text-align: center;
-	font-family: 'Source Sans Pro', sans-serif;
-
-}
-
-#header p {
-	text-align: center;
-	font-family: 'Source Sans Pro', sans-serif;
-}
-
-#header a {
-	font-size: 1.25em;
-	margin: 0.75em 0 0.25em 0;
-	opacity: 0.75;
-	text-align: center;
-	color: white;
-	border-bottom: dotted 1px;
-	text-decoration: none;
-	font-family: 'Source Sans Pro', sans-serif;
-}
 
 /* List */
 
@@ -1444,6 +1418,34 @@
 				color: white;
 			}
 
+			#header h1 {
+				font-size: 4.35em;
+				font-weight: 900;
+				letter-spacing: -0.035em;
+				line-height: 1em;
+				color: white;
+				text-align: center;
+				font-family: 'Source Sans Pro', sans-serif;
+
+			}
+
+			#header p {
+				text-align: center;
+				font-family: 'Source Sans Pro', sans-serif;
+			}
+
+			#header a {
+				font-size: 1.25em;
+				margin: 0.75em 0 0.25em 0;
+				opacity: 0.75;
+				text-align: center;
+				color: white;
+				border-bottom: dotted 1px;
+				text-decoration: none;
+				font-family: 'Source Sans Pro', sans-serif;
+			}
+
+
 	}
 
 
@@ -1460,7 +1462,7 @@
 			}
 
 			h1, h2 {
-				font-size: 1.75em;
+				font-size: 1.25em;
 				letter-spacing: -0.025em;
 			}
 
@@ -1495,19 +1497,6 @@
 				ul.actions li:first-child {
 					margin-top: 0;
 				}
-
-		/* Button */
-
-			input[type="button"],
-			input[type="submit"],
-			input[type="reset"],
-			button,
-			.button {
-				display: block;
-				width: 100%;
-				padding: 0.75em 0 0.75em 0;
-				text-align: center;
-			}
 
 		/* Wrapper */
 
