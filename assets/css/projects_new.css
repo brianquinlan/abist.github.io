@@ -1128,12 +1128,6 @@
 			}
 
 
-#subScan {
-	margin-top: 1.5em;
-	font-size: 0.5em;
-	text-decoration: underline;
-}
-
 /* Desktop */
 
 	@media screen and (min-width: 737px) {
@@ -1385,6 +1379,12 @@
 				color: #40556a;
 			}
 
+			#subScan {
+				margin-top: 1.5em;
+				font-size: 0.5em;
+				text-decoration: underline;
+			}
+
 	}
 
 
@@ -1547,5 +1547,11 @@
 			header a.icon.fa-external-link-square {
 				text-decoration: none;
 				color: #40556a;
+			}
+
+			#subScan {
+				margin-top: 1.5em;
+				font-size: 1em;
+				text-decoration: underline;
 			}
 	}
