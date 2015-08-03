@@ -1,11 +1,6 @@
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
 @import url("font-awesome.min.css");
 
-/*
-	Astral by HTML5 UP
-	html5up.net | @n33co
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 /* Reset */
 
@@ -1402,11 +1397,6 @@
 						color: #777777;
 					}
 
-					#me header a.icon.fa-external-link-square {
-						text-decoration: none;
-						color: #40556a;
-					}
-
 
 		/* Footer */
 
@@ -1442,6 +1432,11 @@
 				border-bottom: dotted 1px;
 				text-decoration: none;
 				font-family: 'Source Sans Pro', sans-serif;
+			}
+
+			header a.icon.fa-external-link-square {
+				text-decoration: none;
+				color: #40556a;
 			}
 
 	}
@@ -1560,11 +1555,6 @@
 					font-size: 1em;
 				}
 
-				#me header a.icon.fa-external-link-square {
-					text-decoration: none;
-					color: #40556a;
-				}
-
 		/* Footer */
 
 			#footer {
@@ -1606,5 +1596,10 @@
 				border-bottom: dotted 1px;
 				text-decoration: none;
 				font-family: 'Source Sans Pro', sans-serif;
+			}
+
+			header a.icon.fa-external-link-square {
+				text-decoration: none;
+				color: #40556a;
 			}
 	}
