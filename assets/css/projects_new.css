@@ -1127,6 +1127,11 @@
 				display: none;
 			}
 
+	#otherProjects {
+		list-style: disc;
+		padding-left: 1em;
+	}
+
 
 /* Desktop */
 
