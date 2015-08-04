@@ -163,6 +163,8 @@
 		left: 0;
 		opacity: 0;
 		position: fixed;
+		overflow: scroll;
+		height:100%;
 		top: 0;
 		width: 100%;
 	}
@@ -322,25 +324,24 @@
 		width: 100%;
 	}
 
-/* Main */
-
-	#main {
-		height: 100%;
-		left: 0;
-		position: fixed;
-		text-align: center;
-		top: 0;
-		width: 100%;
+	#semester {
+		font-size: 2em;
+		display: inline-block;
+		font-family: 'Source Sans Pro', sans-serif;
+		margin-top: 1em;
+		font-weight: bold;
 	}
 
-		#main:before {
-			content: '';
-			display: inline-block;
-			height: 100%;
-			margin-right: 0;
-			vertical-align: middle;
-			width: 1px;
-		}
+	#courses {
+		font-size: 0.5em;
+		font-weight: normal;
+	}
+
+	#courseList {
+		display : inline-block;
+		text-align: center;
+		width: 100%;
+	}
 
 /* Header */
 
@@ -707,7 +708,8 @@
 		height: 6em;
 		left: 0;
 		line-height: 8em;
-		position: absolute;
+		position: relative;
+		overflow: scroll;
 		text-align: center;
 		width: 100%;
 	}
