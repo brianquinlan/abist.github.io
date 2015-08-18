@@ -164,7 +164,6 @@
 		opacity: 0;
 		position: relative;
 		overflow: scroll;
-		-webkit-overflow-scrolling:touch;
 		top: 0;
 		width: 100%;
 	}
@@ -1061,6 +1060,10 @@
 		#bg {
 			background-size: 412.5px auto;
 			width: 1237.5px;
+		}
+
+		* {
+			overflow: scroll;
 		}
 
 	/* Header */
