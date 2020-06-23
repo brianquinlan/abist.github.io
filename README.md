@@ -1,2 +1,2 @@
 # abist.github.io
-Personal Website
+Personal Website and blog
