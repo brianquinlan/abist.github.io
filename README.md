@@ -1,2 +1,2 @@
 # abist.github.io
-Personal Website and blog
+[Personal Website and blog](http://adityabist.com/)
